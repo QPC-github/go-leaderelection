@@ -106,7 +106,7 @@ import (
 
 	"time"
 
-	"github.com/go-zookeeper/zk"
+	"github.com/Shopify/zk"
 )
 
 const (

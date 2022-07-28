@@ -27,7 +27,7 @@ import (
 	"strings"
 
 	"github.com/Comcast/go-leaderelection"
-	"github.com/go-zookeeper/zk"
+	"github.com/Shopify/zk"
 )
 
 const numCandidates = 500
