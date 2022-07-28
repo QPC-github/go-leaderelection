@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	zk "github.com/go-zookeeper/zk"
+	zk "github.com/Shopify/zk"
 )
 
 // NOTE!!!!!

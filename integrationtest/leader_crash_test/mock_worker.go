@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/Comcast/go-leaderelection"
-	"github.com/go-zookeeper/zk"
+	"github.com/Shopify/zk"
 )
 
 const (
